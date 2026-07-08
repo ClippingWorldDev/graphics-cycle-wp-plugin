@@ -1,1 +1,1 @@
-# Softro-core plugin (For Softro WordPress Theme)
+# graphicscycle-core plugin (For Graphics Cycle WordPress Theme)
